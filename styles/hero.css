@@ -5,7 +5,7 @@ section.hero {
   margin-inline: auto;
 
   display: flex;
-  flex-direction: column-reverse; /* utilizar para fazer o mobile */
+  /* flex-direction: column-reverse; utilizar para fazer o mobile */
   align-items: center;
   justify-content: space-between;
   overflow: hidden;
