@@ -24,9 +24,12 @@
   --txt-xl: 4rem;
 }
 
-html .button {
+html, button {
   font: 500 1rem/1.5 var(--ff-base);
+}
 
+html {
+  
 }
 
 h1, h2 {
