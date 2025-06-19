@@ -6,7 +6,7 @@ Este é um projeto de estudo desenvolvido como parte do curso da Rocketseat, min
 
 Snitap é uma landing page conceitual para uma loja de patins, criada para demonstrar o uso de transições CSS de forma eficaz. A página busca transmitir a ideia de diversão e movimento, características associadas aos patins, utilizando animações suaves e interativas.
 
-## ![Capa do projeto](./Thumbnail.png)
+## ![Capa do projeto](./Thumbnail.svg)
 
 ### Funcionalidades
 
